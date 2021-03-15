@@ -68,3 +68,25 @@ The test `SalesTaxesProblemsTest` contains three test cases for the three proble
 - in problem #1 output a wrongly placed space character has been removed between "book" and ":"
 - problem #3 the last product differ from input to output, "box of *imported* chocolates" and "*imported* box of chocolates" respectively, the former has been chosen
 
+## License
+The **SalesTaxProblem-Makkajai** is licensed under the terms of the [MIT license](LICENSE) and is available for free.
+
+## Links
+-   [Issue tracker](https://github.com/85599/sales-tax-makkajai/issues)
+-   [Source code](https://github.com/85599/sales-tax-makkajai)
+
+## Authors
+* **Khushal Jain** - [Khushal Jain](https://github.com/85599/)
+
+
+## Acknowledgments
+* Hat tip to anyone whose code was used.
+* Myself :P
+
+<br><br>
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/85599">85599</a>
+</p>
+
+![wave](http://cdn.thekrishna.in/img/common/border.png)
+
